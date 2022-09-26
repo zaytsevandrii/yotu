@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/yotu/static/css/main.7cfc83ee.css",
-    "main.js": "/yotu/static/js/main.d0dc2e4f.js",
-    "static/media/award01.png": "/yotu/static/media/award01.361a4bc44b59b55abeda.png",
+    "main.js": "/yotu/static/js/main.06ed9afb.js",
     "index.html": "/yotu/index.html",
     "main.7cfc83ee.css.map": "/yotu/static/css/main.7cfc83ee.css.map",
-    "main.d0dc2e4f.js.map": "/yotu/static/js/main.d0dc2e4f.js.map"
+    "main.06ed9afb.js.map": "/yotu/static/js/main.06ed9afb.js.map"
   },
   "entrypoints": [
     "static/css/main.7cfc83ee.css",
-    "static/js/main.d0dc2e4f.js"
+    "static/js/main.06ed9afb.js"
   ]
 }

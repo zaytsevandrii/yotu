@@ -55,7 +55,7 @@ function AppMain() {
     </div>
 }/>
   
-  <Route path='/' element={
+  <Route path='/yotu' element={
     <div className='app__page'>
        <Navbar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory}/>
       <NavbarSmall selectedCategory={selectedCategory} setSelectedCategory= {setSelectedCategory}/>

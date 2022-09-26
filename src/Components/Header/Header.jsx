@@ -1,7 +1,6 @@
 import React from "react";
 import "./Header.css";
 import MenuIcon from "@mui/icons-material/Menu";
-import ylogo from "../../assets/award01.png";
 import SearchIcon from "@mui/icons-material/Search";
 import MicIcon from "@mui/icons-material/Mic";
 import { Mic, VideoCall } from "@mui/icons-material";
